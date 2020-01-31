@@ -1,0 +1,40 @@
+ebook_metadata:
+  title: ༄༅༅། །རྡོ་རྗེ་ཐེག་པའི་ཐུན་མོང་གི་སྔོན་འགྲོ་སྤྱི་ལ་སྦྱོར་ཆོག་པའི་ཁྲིད་ཀྱི་རྒྱབ་ཡིག་ཀུན་མཁྱེན་ཞལ་ལུང་རྣམ་གྲོལ་ཤིང་རྟ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
+  sku: SHE-SG-07
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: An Extensive Presentation of the Preliminary Practices
+    bo: སྔོན་འགྲོའི་ཁྲིད་ཡིག།༼ཇ༽
+  collection:
+    en: Shechen Gyaltsab Series–  Book 7
+    bo: ཞེ་ཆེན་རྒྱལ་ཚབ་གསུང་འབུམ།–  དེབ། ༧
+  author:
+    en: Shechen Gyaltsap Gyurme Pema Namgyal
+    bo: ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-SG-07
+  category:
+    en: Preliminary Practices
+    bo: སྔོན་འགྲོ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-SG-07.epub
+  description:
+    en: ''
+    bo: ''

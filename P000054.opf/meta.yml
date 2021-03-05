@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000054
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅༅། །རྡོ་རྗེ་ཐེག་པའི་ཐུན་མོང་གི་སྔོན་འགྲོ་སྤྱི་ལ་སྦྱོར་ཆོག་པའི་ཁྲིད་ཀྱི་རྒྱབ་ཡིག་ཀུན་མཁྱེན་ཞལ་ལུང་རྣམ་གྲོལ་ཤིང་རྟ་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
-  sku: SHE-SG-07
   layers:
   - book_title
   - author
@@ -12,6 +13,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: SHE-SG-07
 web_metadata:
   title:
     en: An Extensive Presentation of the Preliminary Practices
